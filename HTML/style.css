@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+.my-style {
+    background-color: #c9d8b6;
+    color: #57838b;
+    border: 3px solid #000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+    
+}
+
+#my-id { 
+    background-color: #c9d8b6;
+    color: #CD5888;
+    border: 3px dotted #000;
+
+}
+p { 
+    background-color:#c9d8b6 ;
+    color: #57838b;
+    letter-spacing: 2px;
+    line-height: normal;
+
+}
+
+h1 {
+    color: #000; 
+}
